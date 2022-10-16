@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s[-4:]
+    a = s[-5:]
     return a 
 
 print(main('Chinatown'))
