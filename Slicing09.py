@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s[::0]
+    a = s[::2]
     return a
 
 print(main('boolen'))
