@@ -9,4 +9,4 @@ def main(s):
     a = s[::2]
     return a
 
-print(main('testkey'))
+print(main('1234567'))
