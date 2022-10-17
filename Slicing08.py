@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s[::2]
+    a = s[1::2]
     return a
 
 print(main('1234567'))
