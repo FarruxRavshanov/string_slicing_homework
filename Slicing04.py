@@ -7,4 +7,7 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return
+    a = s[0:n]
+    return a
+
+print(main('football', 4))
