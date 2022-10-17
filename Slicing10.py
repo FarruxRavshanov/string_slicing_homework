@@ -8,4 +8,7 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return
+    a = s[n:k]
+    return a
+
+print(main('Madagaskar', 4, 7))
